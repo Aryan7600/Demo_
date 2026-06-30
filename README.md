@@ -1,2 +1,3 @@
 # Demo_
-This is my first git hub repo
+This is my first git hub repositry
+Author Aryan kushwaha
